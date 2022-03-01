@@ -1,7 +1,7 @@
 [
   {
     "pkg": "tachiyomix.wuxiaworldsite.en",
-    "apk": "https://github.com/kazemcodes/IReader-Sources/blob/main/src/en/wuxiaworldsitecom/wuxiaworldsite-v1.0.1.apk",
+    "apk": "/src/en/wuxiaworldsitecom/wuxiaworldsite-v1.0.1.apk",
     "name": "Wuxiaworld",
     "id": 2499283573021320255,
     "lang": "en",
