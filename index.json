@@ -99,6 +99,17 @@
     "nsfw": false
   },
   {
+    "pkg": "ireader.wuxiaworldsite.co.en",
+    "apk": "ireader-en-wuxiaworldsite.co-v1.0.4.apk",
+    "name": "WuxiaWorldSite.co",
+    "id": 5895743600733070678,
+    "lang": "en",
+    "code": 4,
+    "version": "1.0.4",
+    "description": "",
+    "nsfw": false
+  },
+  {
     "pkg": "ireader.wuxiaworldsite.en",
     "apk": "ireader-en-wuxiaworldsite-v1.4.4.apk",
     "name": "WuxiaWorldSite",
