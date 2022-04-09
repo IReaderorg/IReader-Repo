@@ -77,6 +77,17 @@
     "nsfw": false
   },
   {
+    "pkg": "ireader.qidianunderground.en",
+    "apk": "ireader-en-qidianunderground-v1.0.1.apk",
+    "name": "QidianUnderground",
+    "id": 7828863743657806260,
+    "lang": "en",
+    "code": 1,
+    "version": "1.0.1",
+    "description": "",
+    "nsfw": false
+  },
+  {
     "pkg": "ireader.realwebnovel.en",
     "apk": "ireader-en-realwebnovel-v1.3.3.apk",
     "name": "RealWebNovel",
@@ -118,17 +129,6 @@
     "code": 4,
     "version": "1.4.4",
     "description": "Highest quality and scanlator-approved source",
-    "nsfw": false
-  },
-  {
-    "pkg": "ireader.qidianunderground.en",
-    "apk": "ireader-en-qidianunderground-v1.0.1.apk",
-    "name": "QidianUnderground",
-    "id": 7828863743657806260,
-    "lang": "en",
-    "code": 1,
-    "version": "1.0.1",
-    "description": "",
     "nsfw": false
   }
 ]
