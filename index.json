@@ -34,12 +34,12 @@
   },
   {
     "pkg": "ireader.lightnovels.me.en",
-    "apk": "ireader-en-lightnovels.me-v1.1.apk",
+    "apk": "ireader-en-lightnovels.me-v1.2.apk",
     "name": "LightNovels.Me",
     "id": 1878427117944188145,
     "lang": "en",
-    "code": 1,
-    "version": "1.1",
+    "code": 2,
+    "version": "1.2",
     "description": "",
     "nsfw": false
   },
@@ -67,12 +67,12 @@
   },
   {
     "pkg": "ireader.mylovenovel.en",
-    "apk": "ireader-en-mylovenovel-v1.4.apk",
+    "apk": "ireader-en-mylovenovel-v1.5.apk",
     "name": "MyLoveNovel",
     "id": 2565621255340942305,
     "lang": "en",
-    "code": 4,
-    "version": "1.4",
+    "code": 5,
+    "version": "1.5",
     "description": "",
     "nsfw": false
   },
