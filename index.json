@@ -1,5 +1,16 @@
 [
   {
+    "pkg": "ireader.boxnovel.en",
+    "apk": "ireader-en-boxnovel-v1.1.apk",
+    "name": "BoxNovel",
+    "id": 7944537582591806060,
+    "lang": "en",
+    "code": 1,
+    "version": "1.1",
+    "description": "",
+    "nsfw": false
+  },
+  {
     "pkg": "ireader.comrademao.en",
     "apk": "ireader-en-comrademao-v1.4.apk",
     "name": "Comrademao",
