@@ -78,12 +78,12 @@
   },
   {
     "pkg": "ireader.mtlnation.en",
-    "apk": "ireader-en-mtlnation-v1.6.apk",
+    "apk": "ireader-en-mtlnation-v1.7.apk",
     "name": "MtlNation",
     "id": 7377962830706370093,
     "lang": "en",
-    "code": 6,
-    "version": "1.6",
+    "code": 7,
+    "version": "1.7",
     "description": "",
     "nsfw": false
   },
