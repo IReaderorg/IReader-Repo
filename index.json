@@ -55,13 +55,24 @@
     "nsfw": false
   },
   {
-    "pkg": "ireader.lightnovelreader.en",
-    "apk": "ireader-en-lightnovelreader-v1.1.apk",
-    "name": "LightNovelReader",
-    "id": 7759389819889940161,
+    "pkg": "ireader.lightnovelpub.en",
+    "apk": "ireader-en-lightnovelpub-v1.1.apk",
+    "name": "LightNovelPub",
+    "id": 1730623472997427810,
     "lang": "en",
     "code": 1,
     "version": "1.1",
+    "description": "",
+    "nsfw": false
+  },
+  {
+    "pkg": "ireader.lightnovelreader.en",
+    "apk": "ireader-en-lightnovelreader-v1.2.apk",
+    "name": "LightNovelReader",
+    "id": 7759389819889940161,
+    "lang": "en",
+    "code": 2,
+    "version": "1.2",
     "description": "",
     "nsfw": false
   },
@@ -132,6 +143,17 @@
     "nsfw": false
   },
   {
+    "pkg": "ireader.novelupdates.en",
+    "apk": "ireader-en-novelupdates-v1.1.apk",
+    "name": "NovelUpdates",
+    "id": 1332093254752367666,
+    "lang": "en",
+    "code": 1,
+    "version": "1.1",
+    "description": "",
+    "nsfw": false
+  },
+  {
     "pkg": "ireader.qidianunderground.en",
     "apk": "ireader-en-qidianunderground-v1.3.apk",
     "name": "QidianUnderground",
@@ -177,23 +199,23 @@
   },
   {
     "pkg": "ireader.riwyat.ar",
-    "apk": "ireader-ar-riwyat-v1.1.apk",
+    "apk": "ireader-ar-riwyat-v1.2.apk",
     "name": "Riwyat",
     "id": 3911602848528027929,
     "lang": "ar",
-    "code": 1,
-    "version": "1.1",
+    "code": 2,
+    "version": "1.2",
     "description": "",
     "nsfw": false
   },
   {
     "pkg": "ireader.skynovel.en",
-    "apk": "ireader-en-skynovel-v1.1.apk",
+    "apk": "ireader-en-skynovel-v1.2.apk",
     "name": "SkyNovel",
     "id": 8270913328350885364,
     "lang": "en",
-    "code": 1,
-    "version": "1.1",
+    "code": 2,
+    "version": "1.2",
     "description": "",
     "nsfw": false
   },
