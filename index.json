@@ -143,17 +143,6 @@
     "nsfw": false
   },
   {
-    "pkg": "ireader.novelhall.en",
-    "apk": "ireader-en-novelhall-v1.2.apk",
-    "name": "NovelHall",
-    "id": 8288303759567562418,
-    "lang": "en",
-    "code": 2,
-    "version": "1.2",
-    "description": "",
-    "nsfw": false
-  },
-  {
     "pkg": "ireader.novelowl.en",
     "apk": "ireader-en-novelowl-v1.2.apk",
     "name": "NovelOwl",
