@@ -144,12 +144,12 @@
   },
   {
     "pkg": "ireader.novelhall.en",
-    "apk": "ireader-en-novelhall-v1.1.apk",
+    "apk": "ireader-en-novelhall-v1.2.apk",
     "name": "NovelHall",
     "id": 8288303759567562418,
     "lang": "en",
-    "code": 1,
-    "version": "1.1",
+    "code": 2,
+    "version": "1.2",
     "description": "",
     "nsfw": false
   },
