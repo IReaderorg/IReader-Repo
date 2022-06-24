@@ -133,12 +133,23 @@
   },
   {
     "pkg": "ireader.novelfull.en",
-    "apk": "ireader-en-novelfull-v1.6.apk",
+    "apk": "ireader-en-novelfull-v1.7.apk",
     "name": "NovelFull",
     "id": 1811616907726599068,
     "lang": "en",
-    "code": 6,
-    "version": "1.6",
+    "code": 7,
+    "version": "1.7",
+    "description": "",
+    "nsfw": false
+  },
+  {
+    "pkg": "ireader.novelhall.en",
+    "apk": "ireader-en-novelhall-v1.3.apk",
+    "name": "NovelHall",
+    "id": 8288303759567562418,
+    "lang": "en",
+    "code": 3,
+    "version": "1.3",
     "description": "",
     "nsfw": false
   },
