@@ -88,6 +88,17 @@
     "nsfw": false
   },
   {
+    "pkg": "ireader.mostnovel.en",
+    "apk": "ireader-en-mostnovel-v1.1.apk",
+    "name": "MostNovel",
+    "id": 7077239824962501813,
+    "lang": "en",
+    "code": 1,
+    "version": "1.1",
+    "description": "",
+    "nsfw": false
+  },
+  {
     "pkg": "ireader.mtlnation.en",
     "apk": "ireader-en-mtlnation-v1.8.apk",
     "name": "MtlNation",
