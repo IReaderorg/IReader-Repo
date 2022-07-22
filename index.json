@@ -1,5 +1,16 @@
 [
   {
+    "pkg": "ireader.aixdzs.cn",
+    "apk": "ireader-cn-aixdzs-v1.1.apk",
+    "name": "Aixdzs",
+    "id": 6381860391850307132,
+    "lang": "cn",
+    "code": 1,
+    "version": "1.1",
+    "description": "",
+    "nsfw": false
+  },
+  {
     "pkg": "ireader.boxnovel.en",
     "apk": "ireader-en-boxnovel-v1.3.apk",
     "name": "BoxNovel",
@@ -40,6 +51,17 @@
     "lang": "en",
     "code": 6,
     "version": "1.6",
+    "description": "",
+    "nsfw": false
+  },
+  {
+    "pkg": "ireader.kissnovel.en",
+    "apk": "ireader-en-kissnovel-v1.1.apk",
+    "name": "KissNovel",
+    "id": 8603332505269087684,
+    "lang": "en",
+    "code": 1,
+    "version": "1.1",
     "description": "",
     "nsfw": false
   },
