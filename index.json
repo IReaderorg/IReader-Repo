@@ -11,6 +11,17 @@
     "nsfw": false
   },
   {
+    "pkg": "ireader.allnovelfull.en",
+    "apk": "ireader-en-allnovelfull-v1.1.apk",
+    "name": "AllNovelFull",
+    "id": 3273374795580060030,
+    "lang": "en",
+    "code": 1,
+    "version": "1.1",
+    "description": "",
+    "nsfw": false
+  },
+  {
     "pkg": "ireader.boxnovel.en",
     "apk": "ireader-en-boxnovel-v1.3.apk",
     "name": "BoxNovel",
@@ -33,10 +44,10 @@
     "nsfw": false
   },
   {
-    "pkg": "ireader.dao.novel.en",
-    "apk": "ireader-en-dao novel-v1.4.apk",
-    "name": "Dao Novel",
-    "id": 8099660780742669458,
+    "pkg": "ireader.daonovel.en",
+    "apk": "ireader-en-daonovel-v1.4.apk",
+    "name": "DaoNovel",
+    "id": 7847424113029628376,
     "lang": "en",
     "code": 4,
     "version": "1.4",
@@ -99,10 +110,10 @@
     "nsfw": false
   },
   {
-    "pkg": "ireader.lightnovels.me.en",
-    "apk": "ireader-en-lightnovels.me-v1.4.apk",
-    "name": "LightNovels.Me",
-    "id": 1878427117944188145,
+    "pkg": "ireader.lightnovelsme.en",
+    "apk": "ireader-en-lightnovelsme-v1.4.apk",
+    "name": "LightNovelsMe",
+    "id": 6348192593570527696,
     "lang": "en",
     "code": 4,
     "version": "1.4",
@@ -165,6 +176,17 @@
     "nsfw": false
   },
   {
+    "pkg": "ireader.novelfullme.en",
+    "apk": "ireader-en-novelfullme-v1.1.apk",
+    "name": "NovelFullMe",
+    "id": 7539536711637595421,
+    "lang": "en",
+    "code": 1,
+    "version": "1.1",
+    "description": "",
+    "nsfw": false
+  },
+  {
     "pkg": "ireader.novelhall.en",
     "apk": "ireader-en-novelhall-v1.4.apk",
     "name": "NovelHall",
@@ -187,10 +209,32 @@
     "nsfw": false
   },
   {
+    "pkg": "ireader.novelscafes.en",
+    "apk": "ireader-en-novelscafes-v1.1.apk",
+    "name": "NovelsCafes",
+    "id": 2650729354552088801,
+    "lang": "en",
+    "code": 1,
+    "version": "1.1",
+    "description": "",
+    "nsfw": false
+  },
+  {
     "pkg": "ireader.novelstic.en",
     "apk": "ireader-en-novelstic-v1.1.apk",
     "name": "NovelStic",
     "id": 1760102578558023814,
+    "lang": "en",
+    "code": 1,
+    "version": "1.1",
+    "description": "",
+    "nsfw": false
+  },
+  {
+    "pkg": "ireader.noveltop1net.en",
+    "apk": "ireader-en-noveltop1net-v1.1.apk",
+    "name": "NovelTop1Net",
+    "id": 1838324541872303334,
     "lang": "en",
     "code": 1,
     "version": "1.1",
@@ -209,10 +253,10 @@
     "nsfw": false
   },
   {
-    "pkg": "ireader.panda.novel.en",
-    "apk": "ireader-en-panda novel-v1.2.apk",
-    "name": "Panda Novel",
-    "id": 8593019114641502535,
+    "pkg": "ireader.pandanovel.en",
+    "apk": "ireader-en-pandanovel-v1.2.apk",
+    "name": "PandaNovel",
+    "id": 3036240446850231794,
     "lang": "en",
     "code": 2,
     "version": "1.2",
@@ -246,6 +290,17 @@
     "apk": "ireader-en-readmtl-v1.1.apk",
     "name": "ReadMtl",
     "id": 46506295113007807,
+    "lang": "en",
+    "code": 1,
+    "version": "1.1",
+    "description": "",
+    "nsfw": false
+  },
+  {
+    "pkg": "ireader.readwn.en",
+    "apk": "ireader-en-readwn-v1.1.apk",
+    "name": "ReadWn",
+    "id": 360679230228192343,
     "lang": "en",
     "code": 1,
     "version": "1.1",
@@ -297,6 +352,17 @@
     "nsfw": false
   },
   {
+    "pkg": "ireader.sexinsex.cn",
+    "apk": "ireader-cn-sexinsex-v1.1.apk",
+    "name": "sexinsex",
+    "id": 4492180738117185078,
+    "lang": "cn",
+    "code": 1,
+    "version": "1.1",
+    "description": "",
+    "nsfw": true
+  },
+  {
     "pkg": "ireader.skynovel.en",
     "apk": "ireader-en-skynovel-v1.4.apk",
     "name": "SkyNovel",
@@ -341,17 +407,6 @@
     "nsfw": false
   },
   {
-    "pkg": "ireader.wuxiaworldsite.co.en",
-    "apk": "ireader-en-wuxiaworldsite.co-v1.0.6.apk",
-    "name": "WuxiaWorldSite.co",
-    "id": 5895743600733070678,
-    "lang": "en",
-    "code": 6,
-    "version": "1.0.6",
-    "description": "",
-    "nsfw": false
-  },
-  {
     "pkg": "ireader.wuxiaworldsite.en",
     "apk": "ireader-en-wuxiaworldsite-v1.8.apk",
     "name": "WuxiaWorldSite",
@@ -359,6 +414,17 @@
     "lang": "en",
     "code": 8,
     "version": "1.8",
+    "description": "",
+    "nsfw": false
+  },
+  {
+    "pkg": "ireader.wuxiaworldsiteco.en",
+    "apk": "ireader-en-wuxiaworldsiteco-v1.0.6.apk",
+    "name": "WuxiaWorldSiteco",
+    "id": 1109443794350718243,
+    "lang": "en",
+    "code": 6,
+    "version": "1.0.6",
     "description": "",
     "nsfw": false
   }
